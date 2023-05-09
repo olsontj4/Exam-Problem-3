@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\obj\Debug\net6.0\ProfessorClass.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\obj\Debug\net6.0\ProfessorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\obj\Debug\net6.0\ProfessorClass.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\obj\Debug\net6.0\ProfessorClass.AssemblyInfo.cs
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\obj\Debug\net6.0\ProfessorClass.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\bin\Debug\net6.0\ProfessorClass.exe
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\bin\Debug\net6.0\ProfessorClass.deps.json
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\bin\Debug\net6.0\ProfessorClass.runtimeconfig.json
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\bin\Debug\net6.0\ProfessorClass.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\bin\Debug\net6.0\ProfessorClass.pdb
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\obj\Debug\net6.0\ProfessorClass.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\obj\Debug\net6.0\refint\ProfessorClass.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\obj\Debug\net6.0\ProfessorClass.pdb
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\obj\Debug\net6.0\ProfessorClass.genruntimeconfig.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-3\ProfessorClass\obj\Debug\net6.0\ref\ProfessorClass.dll
